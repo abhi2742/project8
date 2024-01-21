@@ -1,0 +1,48 @@
+.sec{
+    background-image:url(doctor.jpg);
+    background-size: cover;
+    
+}.inbox{height: 500px;
+}
+.h{
+    color: rgb(28, 2, 2);
+    font-size: 40px;
+    margin: 50px;
+    font-weight: bold;
+}.y{
+    font-weight: bold;
+}.b{
+    color: black;
+    background-color: transparent;
+    font-weight: bold;
+}.inbox1{
+    background-color:transparent;
+    height: 450px;
+   text-align: center;
+    
+}.k{
+    color: blueviolet;
+    text-align: center;
+}.j{
+    height: 450px;
+    width:100%;
+}.f{
+    background-color: blue;
+    height: 45px;
+    width: 130px;
+    font-weight: bold;
+    color: white;
+}.d{
+    text-align: center;
+    font-weight: bold;
+    color: darkcyan;
+}.card2{
+    float: left;
+}.inbox3{
+    background-color: black;
+    height: 250px;
+    color: white;
+    font-weight: bold;
+}.v{
+    background-color: black;
+}
